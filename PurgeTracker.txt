@@ -6,8 +6,8 @@
 
 ## Title: Purge Tracker
 ## Description: Tracks who in your group is in need of a purge
-## Author: @code65536
-## Version: 1.3.2
+## Author: @code65536 (Original) | @ItsMitchh (Current) 
+## Version: 1.0
 ## APIVersion: 100033
 ## SavedVariables: PurgeTrackerSavedVariables
 
